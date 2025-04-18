@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-    color: #ffdd95;
+    color: #fdd835;
     text-decoration: none
 }
 
@@ -40,7 +40,7 @@ button, .btn {
 
 .btn-highlight {
     font-weight: 600;
-    color: #ffdd95;
+    color: #fdd835;
     font-size: 1.2em;
     position: relative;
     padding-left: 50px;
@@ -94,7 +94,7 @@ button, .btn {
     line-height: 40px;
     font-size: 20px;
     font-weight: 600;
-    color: #ffdd95 !important;
+    color: #fdd835 !important;
 }
 
 #xheader_menu {
@@ -131,7 +131,7 @@ button, .btn {
 }
 
 #xheader_menu ul.header_menu-list .nav-item>a:hover {
-    color: #ffdd95;
+    color: #fdd835;
 }
 
 #xheader_browser {
@@ -154,7 +154,7 @@ button, .btn {
 }
 
 #xheader_browser.active .header-btn {
-    color: #ffdd95;
+    color: #fdd835;
 }
 
 /* footer */
@@ -193,10 +193,6 @@ button, .btn {
     right: 0;
     bottom: 0;
     background: rgb(36,36,40);
-    background: -moz-linear-gradient(180deg, rgba(36,36,40,1) 0%, rgba(36,36,40,0) 64%);
-    background: -webkit-linear-gradient(180deg, rgba(36,36,40,1) 0%, rgba(36,36,40,0) 64%);
-    background: linear-gradient(180deg, rgba(36,36,40,1) 0%, rgba(36,36,40,0) 64%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2B2B2B",endColorstr="#2B2B2B",GradientType=1);
 }
 
 #mw-top .mwt-content {
@@ -242,7 +238,7 @@ button, .btn {
     font-size: 28px;
     font-weight: 700;
     text-align: center;
-    color: #ffdd95;
+    color: #fdd835;
     margin: 0 0 10px 0
 }
 
@@ -259,7 +255,7 @@ button, .btn {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background: #ffdd95;
+    background: #fdd835;
     left: 0;
     position: absolute;
     top: 8px;
@@ -292,7 +288,7 @@ button, .btn {
 
 #action-button {
     margin-bottom: 50px;
-    background: #ffdd95;
+    background: #fdd835;
     border-radius: 0 0 30px 30px;
 }
 
@@ -340,7 +336,7 @@ button, .btn {
     cursor: pointer;
     display: inline-block;
     width: 50px;
-    background: #ffdd95;
+    background: #fdd835;
     border-radius: 30px;
 }
 
@@ -358,7 +354,7 @@ button, .btn {
 
 .mw-buttons .btn-primary {
     font-weight: 600;
-    background: #ffdd95 !important;
+    background: #fdd835 !important;
     color: #111 !important;
     padding: 15px 30px;
     transition: all .2s ease 0s;
@@ -442,7 +438,7 @@ button, .btn {
 }
 
 .zr-news .item .zrn-title:hover {
-    color: #ffdd95;
+    color: #fdd835;
 }
 
 .zr-news .item .zrn-title .news-title {
@@ -575,7 +571,7 @@ button, .btn {
     font-size: 12px;
     float: left;
     padding: 2px 0 2px 20px;
-    border-left: 2px solid #ffdd95;
+    border-left: 2px solid #fdd835;
     margin-right: 20px;
     position: relative;
 }
@@ -583,7 +579,7 @@ button, .btn {
 .share-buttons .share-buttons-block .sbb-title span {
     font-weight: 600;
     font-size: 14px;
-    color: #ffdd95;
+    color: #fdd835;
 }
 
 .share-buttons .share-buttons-block .sbb-social {
@@ -670,7 +666,7 @@ button, .btn {
     }
 
     #xheader_menu ul.header_menu-list .nav-item > a:hover {
-        color: #ffdd95;
+        color: #fdd835;
     }
 
     #xheader_menu.active {
@@ -957,7 +953,7 @@ body.xmas-ui .mw-keywords .mwk-item {
 }
 
 body.xmas-ui .mw-keywords .mwk-item:hover {
-    color: #ffdd95;
+    color: #fdd835;
 }
 
 body.xmas-ui #mw-top {
